@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Shaik Abdul Sammed! 👋
+# Hi there, I'm Shaik-Abdul-Sammed! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Infrastructure+Enthusiast;AI%2FML+Practitioner;Lifelong+Learner)](https://git.io/typing-svg)
 
 <p align="center">
+  <a href="https://github.com/Shaik-Abdul-Sammed">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/abdul-sammad-720443323">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -79,10 +82,10 @@ I am a Computer Science student at **Rajiv Gandhi University of Knowledge Techno
 
 | Project | Technologies | Description |
 | :--- | :--- | :--- |
-| **[CAPSTACK](https://github.com/Abdul9010150809/CAPSTACK)** | `Next.js` `FastAPI` `PostgreSQL` | A full-stack financial health monitoring platform built for Datanyx 2025. |
-| **[DevOps-Fraud-Shield](https://github.com/Abdul9010150809/DevOps-Fraud-Shield)** | `Python` `Docker` `AI/ML` | Supply chain security tool detecting code injections and CI/CD anomalies. |
-| **[Omniflow](https://github.com/Abdul9010150809/Omniflow)** | `Python` `Shell` `Render` | Voice-based system that classifies and routes notes into operational domains. |
-| **[Cropyield-pro](https://github.com/Abdul9010150809/Cropyield-pro)** | `JavaScript` `HTML/CSS` | ML-based crop recommendation system developed for Smart India Hackathon. |
+| **[CAPSTACK](https://github.com/Shaik-Abdul-Sammed/CAPSTACK)** | `Next.js` `FastAPI` `PostgreSQL` | A full-stack financial health monitoring platform built for Datanyx 2025. |
+| **[DevOps-Fraud-Shield](https://github.com/Shaik-Abdul-Sammed/DevOps-Fraud-Shield)** | `Python` `Docker` `AI/ML` | Supply chain security tool detecting code injections and CI/CD anomalies. |
+| **[Omniflow](https://github.com/Shaik-Abdul-Sammed/Omniflow)** | `Python` `Shell` `Render` | Voice-based system that classifies and routes notes into operational domains. |
+| **[Cropyield-pro](https://github.com/Shaik-Abdul-Sammed/Cropyield-pro)** | `JavaScript` `HTML/CSS` | ML-based crop recommendation system developed for Smart India Hackathon. |
 
 ---
 
@@ -98,20 +101,20 @@ I am a Computer Science student at **Rajiv Gandhi University of Knowledge Techno
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul9010150809&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul9010150809&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Abdul-Sammed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Abdul-Sammed&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul9010150809&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-Abdul-Sammed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul9010150809&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Abdul-Sammed&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
