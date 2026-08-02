@@ -118,6 +118,14 @@ I am a Computer Science student at **Rajiv Gandhi University of Knowledge Techno
 </div>
 
 ---
+
+### 🌐 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" width="100%" />
+</div>
+
+---
 <div align="center">
   <i>Let's build something amazing together!</i>
 </div>
